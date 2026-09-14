@@ -188,6 +188,7 @@ A ready-to-use `requirements.txt` is included in the repository.
 
 ## Future Improvements
 
+- Split the one-file notebook into dedicated modules/classes (ETL, storage, portfolio, risk, charts)
 - Point-in-time S&P 500 membership (to fully remove survivorship bias)
 - Alternative ranking signals (momentum, volatility-adjusted returns, fundamental screens)
 - Transaction cost modelling and realistic rebalancing schedules
